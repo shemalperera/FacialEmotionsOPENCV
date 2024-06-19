@@ -11,4 +11,7 @@ This project combines Deep Learning and Computer Vision to create an advanced re
 
 - The model was trained for 100 epochs and achieved an accuracy of 66.5%. We are currently optimizing the model to improve its accuracy.
 - The emotion recognition model was then integrated into a real-time system using Haar cascade Frontalface for face detection.
-- Then, the emotion recognition model was further integrated with YOLOv8 for tracking multiple people in real-time. This enabled the system to detect, recognize emotions, and track different individuals within the same frame.
+- Then, the emotion recognition model was further integrated with YOLOv8 for tracking multiple people in real-time. This enabled the system to detect, recognize emotions, and track different individuals within the same frame. 
+
+<img src = "HaarCascade.png">
+
