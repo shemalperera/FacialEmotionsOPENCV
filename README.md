@@ -16,6 +16,6 @@ This project combines Deep Learning and Computer Vision to create an advanced re
 - Then, the emotion recognition model was further integrated with YOLOv8 for tracking multiple people in real-time. This enabled the system to detect, recognize emotions, and track different individuals within the same frame. 
 
 <p align="center">
-<img src = "HaarCascade.png">
+<img src = "HaarCascade.png"> <br>
   https://www.researchgate.net/figure/Cascade-structure-for-Haar-classifiers_fig9_277929875
 </p>
