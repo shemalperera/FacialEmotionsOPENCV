@@ -9,3 +9,4 @@ Below show the Model architecture of Emotion Recognition of static faces. <be>
 
 <img src = "Model Architecture.jpg">
 
+- The model was trained with 100 epochs and obtained an accuracy of 66.5%. We are in the process of optimizing the model for better accuracy in the meantime.
