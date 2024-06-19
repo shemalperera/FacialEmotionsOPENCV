@@ -6,5 +6,5 @@ This project combines Deep Learning and Computer Vision to create an advanced re
 ## Development Ladder
 -Initial Model Development: Starting off with a CNN model designed to recognize emotions in static images. This initial model was trained on FER 2013 dataset of facial images categorized by emotion. <br>
 Below show the Model architecture of Emotion Recognition of static faces. <be>
-img src = ""
+<img src = "Model Architecture.jpg">
 
