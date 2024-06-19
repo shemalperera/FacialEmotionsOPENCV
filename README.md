@@ -17,4 +17,5 @@ This project combines Deep Learning and Computer Vision to create an advanced re
 
 <p align="center">
 <img src = "HaarCascade.png">
+  https://www.researchgate.net/figure/Cascade-structure-for-Haar-classifiers_fig9_277929875
 </p>
