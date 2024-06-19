@@ -1,4 +1,4 @@
-# 🚀 Real-Time Face Emotion Recognition and Tracking 🎥
+# 🚀 Real-Time Face Emotion Recognition and Tracking 
 
 ## Introduction
 This project combines Deep Learning and Computer Vision to create an advanced real-time face emotion recognition and tracking system. This project is designed to detect faces, recognize their emotions, and track multiple individuals simultaneously within a video stream or real-time camera feed.
@@ -19,3 +19,8 @@ This project combines Deep Learning and Computer Vision to create an advanced re
 <img src = "HaarCascade.png"> <br>
   https://www.researchgate.net/figure/Cascade-structure-for-Haar-classifiers_fig9_277929875
 </p>
+
+## Technical Stack
+- Language - Python
+- Libraries and Frameworks - OpenCV, TensorFlow/Keras, Ultralytics YOLOv8, Numpy
+  
