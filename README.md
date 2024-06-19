@@ -1,5 +1,12 @@
 # 🚀 Real-Time Face Emotion Recognition and Tracking 
 
+![Python](https://img.shields.io/badge/Python-3.9.2-blue)
+![opencv-contrib-python](https://img.shields.io/badge/opencv-contrib-orange)
+![RPi.GPIO](https://img.shields.io/badge/RPi.GPIO-0.7.1-yellow)
+![numpy](https://img.shields.io/badge/numpy-1.21.2-blue)
+![tensorflow](https://img.shields.io/badge/tensorflow-2.15.0-green)
+![keras](https://img.shields.io/badge/keras-2.15.0-green)
+
 ## Introduction
 This project combines Deep Learning and Computer Vision to create an advanced real-time face emotion recognition and tracking system. This project is designed to detect faces, recognize their emotions, and track multiple individuals simultaneously within a video stream or real-time camera feed.
 
